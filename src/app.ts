@@ -1,4 +1,4 @@
-﻿export * from './matrix/matrix';
+export * from './matrix/matrix';
 export * from './matrix/operator';
 export * from './algebra/cholesky';
 export * from './algebra/inverse';

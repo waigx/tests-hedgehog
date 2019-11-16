@@ -1,4 +1,4 @@
-﻿import { mat } from '../matrix/matrix';
+import { mat } from '../matrix/matrix';
 
 function mat2csv(A:mat): string{
     var returnCSV = "";

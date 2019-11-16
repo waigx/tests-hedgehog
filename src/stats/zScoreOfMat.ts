@@ -1,4 +1,4 @@
-﻿import { mat, mean, std, zScore } from '../app';
+import { mat, mean, std, zScore } from '../app';
 import { currentId } from 'async_hooks';
 
 /*

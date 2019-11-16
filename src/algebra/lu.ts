@@ -1,4 +1,4 @@
-﻿import { mat } from "../matrix/matrix";
+import { mat } from "../matrix/matrix";
 import * as mathjs from 'mathjs';
 
 //this is an implementation of LUP decomposition using CPU by Math.js (https://github.com/josdejong/mathjs)

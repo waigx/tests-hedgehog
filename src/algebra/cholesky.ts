@@ -1,4 +1,4 @@
-﻿import { mat } from '../matrix/matrix';
+import { mat } from '../matrix/matrix';
 
 function cholesky(A: mat): mat {
     if (A.rows != A.cols || A.rows == 0 || A.cols == 0) throw new Error("Wrong dimension of matrix A.");

@@ -1,4 +1,4 @@
-﻿import { mat } from './matrix';
+import { mat } from './matrix';
 import './operator';
 import {mean, std } from './vector';
 var assert = require('assert');

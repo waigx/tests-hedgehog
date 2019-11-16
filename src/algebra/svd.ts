@@ -1,4 +1,4 @@
-﻿import { mat } from '../matrix/matrix';
+import { mat } from '../matrix/matrix';
 
 //Source code from: https://github.com/stardisblue/svdjs/blob/master/src/index.ts
 //Author: stardisblue

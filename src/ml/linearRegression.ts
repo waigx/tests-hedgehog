@@ -1,4 +1,4 @@
-﻿import { mat } from '../matrix/matrix';
+import { mat } from '../matrix/matrix';
 import * as op from '../app';
 import { inverse } from '../algebra/inverse';
 

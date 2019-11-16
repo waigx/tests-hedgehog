@@ -1,4 +1,4 @@
-﻿import * as matrixUnitTest from "./matrix/matrixUnitTest";
+import * as matrixUnitTest from "./matrix/matrixUnitTest";
 
 matrixUnitTest.matrixTest();
 

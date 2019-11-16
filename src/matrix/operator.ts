@@ -1,4 +1,4 @@
-﻿import { mat } from './matrix';
+import { mat } from './matrix';
 import { GPU as gpu_ } from 'gpu.js';
 const gpu = new gpu_();
 

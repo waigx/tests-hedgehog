@@ -1,4 +1,4 @@
-﻿import * as m from '../app';
+import * as m from '../app';
 var assert = require('assert');
 
 export function machineLearningTest() {

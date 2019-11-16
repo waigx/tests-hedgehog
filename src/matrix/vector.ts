@@ -1,4 +1,4 @@
-﻿
+
 //mean of vector x
 function mean(x: number[]):number {
     var sum = 0;
